@@ -39,7 +39,8 @@ I'm generally focusing on solving problems and making more life easier for peopl
 
 [![Yurikaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurikaza)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurikaza)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurikaza&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
