@@ -13,13 +13,8 @@ I'm generally focusing on solving problems and making more life easier for peopl
 
 <br>
 
-<a href="https://github.com/yurikaza/E-ihale">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=E-ihale&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Chain-Storage/Chain-Storage">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=Chain-Storage&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=E-ihale)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chain-Storage&repo=Chain-Storage)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
