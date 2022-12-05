@@ -14,7 +14,7 @@ I'm generally focusing on solving problems and making more life easier for peopl
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=E-ihale)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chain-Storage&repo=Chain-Storage)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=Chain-Storage)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
