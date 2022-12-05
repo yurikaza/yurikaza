@@ -34,3 +34,8 @@ I'm generally focusing on solving problems and making more life easier for peopl
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+
+[![Yurikaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurikaza)](https://github.com/anuraghazra/github-readme-stats)
+
