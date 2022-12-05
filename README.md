@@ -2,6 +2,10 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/YPicakci)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/yusuf-mirza-pıçakcı-b26992200)
 
+I'm Yusuf Mirza Pıçakcı a Back End Engineer from Turkey who generally makes API Development, DevOps, Microservices, and Bot Development for businesses.
+I'm currently working on a decentralized storage project whose name is Chain Storage.
+I'm generally focusing on solving problems and making more life easier for people, with my programming skills.
+
 - 🔭 I’m currently working on Chain Storage
 - 🌱 I’m currently learning Network Engineering
 - 💬 Ask me about what ever you want
