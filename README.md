@@ -2,11 +2,12 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/YPicakci)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/yusuf-mirza-pıçakcı-b26992200)
 
-
+<br/>
 - 🔭 I’m currently working on Chain Storage
 - 🌱 I’m currently learning Network Engineering
 - 💬 Ask me about what ever you want
 - 📫 How to reach me: yusufmirza55@hotmail.com
+<br/>
 
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
