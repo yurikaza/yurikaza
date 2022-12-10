@@ -19,7 +19,6 @@ I'm generally focusing on solving problems and making more life easier for peopl
 <br><br>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 
 
