@@ -1,36 +1,46 @@
-### Hi there 👋
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/YPicakci)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/yusuf-mirza-pıçakcı-b26992200)
+# Yusuf Mirza Pıçakcı
 
+**Independent engineer · builder · consultant**
 
+I build systems, then go looking for the part that lies.
 
-<br>
+Mostly AI applications and the infrastructure underneath them. I'm interested in **architecture, latency, and what a system does on a bad day** rather than in a demo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=E-ihale)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurikaza&repo=Chain-Storage)](https://github.com/anuraghazra/github-readme-stats)
+I measure before I argue, and I publish what the instrumentation said — including when it disagreed with me.
 
-<br><br>
+## What I work on
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+- AI application architecture
+- Performance & latency optimization
+- Production systems & reliability
+- Agentic systems and automation
+- Full-stack engineering when the product needs it
 
+## Selected work
 
-<details>
-<summary>More Skills</summary>
+### [Nuvia Platform](https://github.com/yurikaza/nuvia-platform)
+A localized nutrition logistics platform designed around planned fulfillment, partner tooling, and repeatable customer execution. Currently in pre-pilot validation.
 
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+### [Mintlay](https://github.com/yurikaza/mintlay)
+A recursive visual web builder focused on tree-based UI composition, layout systems, state architecture, and safe data hydration.
 
-</details>
+### [Claude Phone Plugin](https://github.com/yurikaza/claude-phone-plugin)
+A voice and messaging AI assistant with multi-agent orchestration, modular skills, session state, and real-time voice infrastructure.
 
-<br>
+### [Chain Storage Distributed File System](https://github.com/yurikaza/Chain-storage-distributed-file-system)
+An earlier exploration into distributed storage and blockchain-backed systems.
 
-[![Yurikaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurikaza)](https://github.com/anuraghazra/github-readme-stats)
+## Writing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurikaza&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+I write about engineering through measurement rather than hype — especially AI systems, performance, infrastructure, and the assumptions hidden inside products.
 
+- [LinkedIn](https://www.linkedin.com/in/yusuf-mirza-pıçakcı-b26992200/)
+- [Medium](https://medium.com/@yusufmirzapicakci)
 
+## Contact
 
+**contact@yusufmirzapicakci.com**
 
+---
+
+> Build. Measure. Explain. Publish.
