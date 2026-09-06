@@ -21,14 +21,17 @@ I measure before I argue, and I publish what the instrumentation said — includ
 ### [Nuvia Platform](https://github.com/yurikaza/nuvia-platform)
 A localized nutrition logistics platform designed around planned fulfillment, partner tooling, and repeatable customer execution. Currently in pre-pilot validation.
 
-### [Mintlay](https://github.com/yurikaza/mintlay)
-A recursive visual web builder focused on tree-based UI composition, layout systems, state architecture, and safe data hydration.
+### [Bridge](https://github.com/yurikaza/bridge)
+A Rust-based coordination layer for attended coding, unattended automation, and human control — built around task queues, safety limits, worktrees, verification, and auditable state transitions.
 
-### [Claude Phone Plugin](https://github.com/yurikaza/claude-phone-plugin)
-A voice and messaging AI assistant with multi-agent orchestration, modular skills, session state, and real-time voice infrastructure.
+### [Local IPFS Server](https://github.com/yurikaza/local-ipfs-server)
+An earlier TypeScript-based exploration of running IPFS infrastructure locally, representing hands-on work with decentralized storage systems.
 
-### [Chain Storage Distributed File System](https://github.com/yurikaza/Chain-storage-distributed-file-system)
-An earlier exploration into distributed storage and blockchain-backed systems.
+### [Chain Storage](https://github.com/yurikaza/chain-storage)
+An earlier exploration into blockchain-backed distributed storage and decentralized file infrastructure.
+
+### [Project Syncopated Silicon](https://github.com/yurikaza/ProjectSyncopatedSilicon)
+An automated media-generation pipeline combining AI, scheduling, compositing, storage, and publishing infrastructure.
 
 ## Writing
 
