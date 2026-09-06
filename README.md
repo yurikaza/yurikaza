@@ -73,15 +73,6 @@ Infrastructure  →  Systems  →  AI  →  Production Engineering
 
 ---
 
-### GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yurikaza&show_icons=true&hide_border=true&theme=transparent&hide=issues&card_width=420" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikaza&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
-</p>
-
----
-
 ### Writing
 
 I write about engineering through measurement rather than hype — AI systems,
